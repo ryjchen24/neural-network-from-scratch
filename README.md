@@ -46,7 +46,7 @@ Overall, this was a great way for me to practice using machine learning. In orde
 ---
 
 
-### 1️⃣ Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/ryjchen24/neural-network-from-scratch.git
 cd neural-network-from-scratch
