@@ -6,7 +6,6 @@ from sklearn.datasets import fetch_openml
 from mlxtend.plotting import plot_confusion_matrix
 from sklearn.metrics import confusion_matrix
 
-
 mnist = fetch_openml('Fashion-MNIST', version=1)
 X, y = mnist.data.values, mnist.target.values.astype(int)
 
