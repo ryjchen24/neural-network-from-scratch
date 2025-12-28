@@ -1,6 +1,6 @@
 # Neural Network From Scratch
 
-## 📌 Overview
+## 📌  Overview
 This project implements a fully functional neural network from first principles using Python and NumPy.  
 Rather than relying on libraries like PyTorch or TensorFlow for training, this project:
 - Has forward and backward propagation created
@@ -14,7 +14,7 @@ The goal is to deeply understand how modern neural networks truly work by practi
 ---
 
 
-## 🖥️ Technologies
+## 🖥️  Technologies
 - Python
 - NumPy
 - Matplotlib
@@ -25,7 +25,7 @@ The goal is to deeply understand how modern neural networks truly work by practi
 ---
 
 
-## ✨ Features
+## ✨  Features
 - Custom neural network architecture
 - Manual backpropagation & gradient descent
 - Configurable hidden layers and activation functions
@@ -39,7 +39,7 @@ The goal is to deeply understand how modern neural networks truly work by practi
 ---
 
 
-## 📚 Takeaways / Thoughts
+## 📚  Takeaways / Thoughts
 Overall, this was a great way for me to practice using machine learning. In order to truly understand the process and engineering that I'll be using in PyTorch, it's essential to understand how a neural network works. From my model, I was able to have arround 95% accuracy on the MNIST-784 dataset and 84% Fashion-MNIST dataset. Using PyTorch, my Fashion-MNIST model had around a 84.5% accuracy, showing that my neural network overall does a good job at what it does even when compared to a complete and polished deep learning framework such as PyTorch!
 
 
